@@ -11,7 +11,7 @@
 // @include      https://discord.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=diep.io
 // @require      https://greasyfork.org/scripts/456843-diep-shortcut/code/diep_Shortcut.js?version=1144520
-// @require      https://cdn-jsdelivr-net.translate.goog/gh/MixyMixtaped/wasmhook@main/wasmhook.js?_x_tr_sl=ro&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+// @require      https://diepmap.officialscript.repl.co/wasmhook.js
 // @grant        none
 // ==/UserScript==
 
